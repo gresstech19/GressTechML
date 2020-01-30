@@ -1,2 +1,0 @@
-# GressTechML
-Machine Learning Algorithms
